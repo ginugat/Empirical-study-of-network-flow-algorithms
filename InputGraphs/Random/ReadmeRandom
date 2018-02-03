@@ -1,0 +1,8 @@
+rnd1(int vertices, int dense, int maxCapacity, int minCapacity)
+10,25,10,1
+
+rnd2
+10,50,10,1
+
+rnd3
+10,100,10,1

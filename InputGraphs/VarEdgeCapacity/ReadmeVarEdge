@@ -1,0 +1,6 @@
+edgeCap1(simple):
+10 1 1 5
+edgeCap2(avg):
+50 2 1 10
+edgeCap3(dense):
+50 3 1 10
